@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-backen-zero",
+  "version": "1.0.0",
+  "description": "nguyen duc khang dich vu diem",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "nguyen duc khang",
+  "license": "ISC",
+  "dependencies": {
+    "exact": "^1.0.1",
+    "express": "4.18.2"
+  }
+}
